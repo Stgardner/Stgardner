@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stgardner
 - 👀 I’m interested in coding, 3d art, and music
-- 🌱 I’m currently learning typescript, flutter, and react native and have developed several web applications and a few mobile.
-- 💞️ I’m looking to collaborate on interesting projects !
+- 🌱 I’m currently learning typescript, react native, and GO and have developed several web applications and a few mobile.
+- 💞️ I’m looking to collaborate on interesting projects, especially regarding Blockchain and Web3!
 - 📫 How to reach me: stuarttgardner@gmail.com
