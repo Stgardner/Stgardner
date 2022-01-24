@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stgardner
 - 👀 I’m interested in coding, 3d art, and music
-- 🌱 Javascript developer with 3 years of experience and currently learning Rust
+- 🌱 Javascript developer with 4 years of experience and currently learning Rust
 - 💞️ I’m looking to collaborate on interesting projects, especially regarding Blockchain and Web3!
 - 📫 How to reach me: stuarttgardner@gmail.com
